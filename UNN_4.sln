@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-3-IntegerArray", "4-3-Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-DataTypesConditionalOperatorLoops", "1-DataTypesConditionalOperatorLoops\1-DataTypesConditionalOperatorLoops.csproj", "{1866377A-4BAB-4AE3-8159-4ECFD437E3C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-1-PersonStudentTeacher", "5-1-PersonStudentTeacher\5-1-PersonStudentTeacher.csproj", "{A97BB774-5498-4424-85AB-E49895507C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-2-BookTriangle", "5-2-BookTriangle\5-2-BookTriangle.csproj", "{5D7768A4-A0C5-4288-8D40-43976696665B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{1866377A-4BAB-4AE3-8159-4ECFD437E3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1866377A-4BAB-4AE3-8159-4ECFD437E3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1866377A-4BAB-4AE3-8159-4ECFD437E3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97BB774-5498-4424-85AB-E49895507C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97BB774-5498-4424-85AB-E49895507C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97BB774-5498-4424-85AB-E49895507C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97BB774-5498-4424-85AB-E49895507C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7768A4-A0C5-4288-8D40-43976696665B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7768A4-A0C5-4288-8D40-43976696665B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7768A4-A0C5-4288-8D40-43976696665B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7768A4-A0C5-4288-8D40-43976696665B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
