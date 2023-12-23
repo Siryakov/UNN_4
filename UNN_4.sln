@@ -21,11 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-2-Pizzeria", "4-2-Pizzeri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-3-IntegerArray", "4-3-IntegerArray\4-3-IntegerArray.csproj", "{6AFCB364-07D3-4D3D-8D9A-751C067E1C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-DataTypesConditionalOperatorLoops", "1-DataTypesConditionalOperatorLoops\1-DataTypesConditionalOperatorLoops.csproj", "{1866377A-4BAB-4AE3-8159-4ECFD437E3C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-DataTypesConditionalOperatorLoops", "1-DataTypesConditionalOperatorLoops\1-DataTypesConditionalOperatorLoops.csproj", "{1866377A-4BAB-4AE3-8159-4ECFD437E3C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-1-PersonStudentTeacher", "5-1-PersonStudentTeacher\5-1-PersonStudentTeacher.csproj", "{A97BB774-5498-4424-85AB-E49895507C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-1-PersonStudentTeacher", "5-1-PersonStudentTeacher\5-1-PersonStudentTeacher.csproj", "{A97BB774-5498-4424-85AB-E49895507C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-2-BookTriangle", "5-2-BookTriangle\5-2-BookTriangle.csproj", "{5D7768A4-A0C5-4288-8D40-43976696665B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-2-BookTriangle", "5-2-BookTriangle\5-2-BookTriangle.csproj", "{5D7768A4-A0C5-4288-8D40-43976696665B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-1-TrafficLight", "6-1-TrafficLight\6-1-TrafficLight.csproj", "{94F73A66-8450-4BE7-B56F-41033DC0D7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-2-TaskManager", "6-2-TaskManager\6-2-TaskManager.csproj", "{01C31925-1E74-4E30-B913-B9480B2A6637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-3-Bank", "6-3-Bank\6-3-Bank.csproj", "{FFD3DBC9-2E0C-4715-B47F-99D6A961773D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-4-EmployeeManager", "6-4-EmployeeManager\6-4-EmployeeManager.csproj", "{EABE2DCC-0E66-4E6B-8FA1-95C1A5E7F8C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{5D7768A4-A0C5-4288-8D40-43976696665B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D7768A4-A0C5-4288-8D40-43976696665B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D7768A4-A0C5-4288-8D40-43976696665B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F73A66-8450-4BE7-B56F-41033DC0D7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F73A66-8450-4BE7-B56F-41033DC0D7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F73A66-8450-4BE7-B56F-41033DC0D7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F73A66-8450-4BE7-B56F-41033DC0D7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C31925-1E74-4E30-B913-B9480B2A6637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C31925-1E74-4E30-B913-B9480B2A6637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C31925-1E74-4E30-B913-B9480B2A6637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C31925-1E74-4E30-B913-B9480B2A6637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD3DBC9-2E0C-4715-B47F-99D6A961773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD3DBC9-2E0C-4715-B47F-99D6A961773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD3DBC9-2E0C-4715-B47F-99D6A961773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD3DBC9-2E0C-4715-B47F-99D6A961773D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABE2DCC-0E66-4E6B-8FA1-95C1A5E7F8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABE2DCC-0E66-4E6B-8FA1-95C1A5E7F8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABE2DCC-0E66-4E6B-8FA1-95C1A5E7F8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABE2DCC-0E66-4E6B-8FA1-95C1A5E7F8C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
